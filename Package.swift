@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AppHarbrSDK",
-            url: "https://nexus.geoedge.com/repository/raw-ios/1.6.1/AH-SDK-iOS-1.6.1.zip",
-            checksum: "dbca7356d71e5ed886d826a27c4cd1594e0eee84963409bf9b053d197d6d0e0e"
+            url: "https://nexus.geoedge.com/repository/raw-ios/1.7.0/AH-SDK-iOS-1.7.0.zip",
+            checksum: "a688718d7e4c652d673b11e1cc921f4b067806724de87e069eb874c23c532dd7"
         ),
     ]
 )
