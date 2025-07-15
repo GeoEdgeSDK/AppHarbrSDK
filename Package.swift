@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AppHarbrSDK",
-            url: "https://geoedge-rum.s3.us-east-1.amazonaws.com/sdk/released_versions/ios-deployment/AH-SDK-iOS-1.24.0.zip",
-            checksum: "63a7696304bf3c51cb5212edcd99003b00d445b6e96594dd5da5c1e28f7ce471"
+            url: "https://geoedge-rum.s3.us-east-1.amazonaws.com/sdk/released_versions/ios-deployment/AH-SDK-iOS-1.24.1.zip",
+            checksum: "d33509ade48ccef5206c0fc26d463435fe54b69df6eeb4391dc0d28b8cab5dd5"
         ),
     ]
 )
